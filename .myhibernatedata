@@ -1,0 +1,20 @@
+#MyEclipse Hibernate Properties
+#Mon Oct 20 11:37:20 CST 2014
+genBasicCompId=false
+sessionFactoryName=
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=false
+keyGenerator=assigned
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=/blackrock/hibernate.reveng.xml
+configFile=/blackrock/src/hibernate.cfg.xml
+createConfigFile=true
